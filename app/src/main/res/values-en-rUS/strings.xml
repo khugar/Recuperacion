@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Retake</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Select Language</string>
+
+    <string-array name="Europa">
+        <item>Spain</item>
+        <item>Portugal</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Andorra</item>
+    </string-array>
+    <string-array name="Africa">
+        <item>Sudan</item>
+        <item>Nigeria</item>
+        <item>Zimbabwe</item>
+        <item>Egypt</item>
+        <item>Angola</item>
+        <item>Botswana</item>
+    </string-array>
+    <string-array name="America">
+        <item>United States of America</item>
+        <item>Mexico</item>
+        <item>Canada</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+    </string-array>
+
+    <string-array name="Oceanias">
+        <item>Australia</item>
+        <item>Indonesia</item>
+        <item>New Zealand</item>
+        <item>Papua New Guinea</item>
+        <item>Tonga</item>
+        <item>Vanuatu</item>
+    </string-array>
+
+    <string-array name="Asia">
+        <item>China</item>
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Japan</item>
+        <item>Russia</item>
+    </string-array>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="tvBienvenido">Welcome, use the side menu to access the contents</string>
+    <string name="drawer_title_america">America</string>
+    <string name="drawer_title_asia">Asia</string>
+    <string name="drawer_title_europa">Europe</string>
+    <string name="drawer_title_africa">Africa</string>
+    <string name="drawer_title_oceania">Australia</string>
+    <string name="drawer_calendario">Calendar</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="fecha">Date :</string>
+    <string name="volver_a_la_mainactivity">MainActivity</string>
+    <string name="btnEmpezar">Start</string>
+    <string name="rote_la_pantalla_para_acceder_a_la_vista_landscape">Rotate the screen to acces to landscape view</string>
+
+</resources>

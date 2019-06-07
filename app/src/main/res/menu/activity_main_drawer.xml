@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/america"
+            android:title="@string/drawer_title_america" />
+        <item
+            android:id="@+id/asia"
+            android:title="@string/drawer_title_asia" />
+        <item
+            android:id="@+id/europa"
+            android:title="@string/drawer_title_europa" />
+        <item
+            android:id="@+id/africa"
+            android:title="@string/drawer_title_africa" />
+        <item
+            android:id="@+id/oceania"
+            android:title="@string/drawer_title_oceania" />
+    </group>
+
+    <item android:title="Otros">
+        <menu>
+            <item
+                android:id="@+id/calendar"
+                android:title="@string/drawer_calendario" />
+        </menu>
+    </item>
+
+</menu>
